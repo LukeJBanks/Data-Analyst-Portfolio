@@ -20,4 +20,15 @@ This repository is a showcase of my skills, projects, and progress in the field 
 
 **CODE:** [COVID-19 Portfolio Project.sql](https://github.com/LukeJBanks/Data-Analyst-Portfolio/blob/main/COVID-19%20Portfolio%20Project.sql)https://github.com/LukeJBanks/Data-Analyst-Portfolio/blob/main/COVID-19%20Portfolio%20Project.sql
 
+# Data Cleaning Project Nashville Housing
+
+**Description:** The dataset contains a list of houses that have been sold in Nashville between the years of 2013 and 2019. This project focused on cleaning and preprocessing the data.
+
+**Skills:** Populating NULL values, Standardizing Dates, SubStrings, ParseName, Alter Table, Update and Deleting, Removing Duplicates
+
+**Technology:** SQL Server
+
+**Code:** [Data Cleaning Project Nashville Housing](https://github.com/LukeJBanks/Data-Analyst-Portfolio/blob/main/Data%20Cleaning%20Project%20Nashville%20Housing.sql)https://github.com/LukeJBanks/Data-Analyst-Portfolio/blob/main/Data%20Cleaning%20Project%20Nashville%20Housing.sql
+
+
 
