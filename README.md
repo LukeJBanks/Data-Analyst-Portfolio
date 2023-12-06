@@ -18,6 +18,6 @@ This repository is a showcase of my skills, projects, and progress in the field 
 
 **Technology:** SQL Server
 
-**CODE:** COVID-19 Portfolio Project.sql
+**CODE:** [COVID-19 Portfolio Project.sql]
 
 
