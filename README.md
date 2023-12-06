@@ -40,7 +40,7 @@ This repository is a showcase of my skills, projects, and progress in the field 
 
 **Dashboard Visual:** [Stock Dashboard Project.pdf](https://github.com/LukeJBanks/Data-Analyst-Portfolio/blob/main/Stock%20Dashboard%20Project.pdf)https://github.com/LukeJBanks/Data-Analyst-Portfolio/blob/main/Stock%20Dashboard%20Project.pdf
 
-**Power BI File** [Stock Dashboard Project.pbix](https://github.com/LukeJBanks/Data-Analyst-Portfolio/blob/main/Stock%20Dashboard%20Project.pbix)https://github.com/LukeJBanks/Data-Analyst-Portfolio/blob/main/Stock%20Dashboard%20Project.pbix
+**Power BI File:** [Stock Dashboard Project.pbix](https://github.com/LukeJBanks/Data-Analyst-Portfolio/blob/main/Stock%20Dashboard%20Project.pbix)https://github.com/LukeJBanks/Data-Analyst-Portfolio/blob/main/Stock%20Dashboard%20Project.pbix
 
 
 
