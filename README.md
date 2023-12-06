@@ -30,7 +30,7 @@ This repository is a showcase of my skills, projects, and progress in the field 
 
 **Code:** [Data Cleaning Project Nashville Housing](https://github.com/LukeJBanks/Data-Analyst-Portfolio/blob/main/Data%20Cleaning%20Project%20Nashville%20Housing.sql)https://github.com/LukeJBanks/Data-Analyst-Portfolio/blob/main/Data%20Cleaning%20Project%20Nashville%20Housing.sql
 
-##Power BI Stock Dashboard Project
+## Power BI Stock Dashboard Project
 
 **Description:** This project involved taking stock data and turning it into an interactive dashboard that includes: dynamic header information, a search bar, stock price over different year ranges, financial metrics, employee metrics, and CEO information. All the data is dynamic to the stock chosen. (Note: Stock data from November 2023, not live).
 
