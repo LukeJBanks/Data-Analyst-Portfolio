@@ -8,9 +8,9 @@ I love to solve complex problems using patterns/trends based on data. I also enj
 In my free time, I love to learn new technologies and programs that can further build my skills in this field. I am always looking for opportunities to expand my knowledge and skills. Whether working with a team or independently, I am driven to solve complex problems and discover new and valuable insights.
 This repository is a showcase of my skills, projects, and progress in the field of Data Analytics / Data Science.
 
-## Project Descriptions
+# Project Descriptions
 
-# COVID-19 Data Exploration
+## COVID-19 Data Exploration
 
 **Description:** The dataset used contains COVID-19 cases, deaths, and vaccine records by country in the early stages of the COVID-19 outbreak (2020-2021).  This project involved importing the data, cleaning and preprocessing the data, and EDA (exploratory data analysis).
 
@@ -20,7 +20,7 @@ This repository is a showcase of my skills, projects, and progress in the field 
 
 **CODE:** [COVID-19 Portfolio Project.sql](https://github.com/LukeJBanks/Data-Analyst-Portfolio/blob/main/COVID-19%20Portfolio%20Project.sql)https://github.com/LukeJBanks/Data-Analyst-Portfolio/blob/main/COVID-19%20Portfolio%20Project.sql
 
-# Data Cleaning Project Nashville Housing
+## Data Cleaning Project Nashville Housing
 
 **Description:** The dataset contains a list of houses that have been sold in Nashville between the years of 2013 and 2019. This project focused on cleaning and preprocessing the data.
 
