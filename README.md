@@ -42,7 +42,7 @@ This repository is a showcase of my skills, projects, and progress in the field 
 
 **Power BI File:** [Stock Dashboard Project.pbix](https://github.com/LukeJBanks/Data-Analyst-Portfolio/blob/main/Stock%20Dashboard%20Project.pbix)https://github.com/LukeJBanks/Data-Analyst-Portfolio/blob/main/Stock%20Dashboard%20Project.pbix
 
-##Stock Dashboard Project
+## Data Analyst Survey Project - Excel Data Cleaning and Power BI
 
 **Description:** This project takes the results from an anonymous survey for those who work in the field of data science and data analytics. This project involved cleaning the data set in Excel, then importing the data into Power BI and making a dashboard. The data cleaning process began by bringing relevant data together into categories that would be useable in a visualization. The =IF function was also used to separate Salary and Age into categories. Tools like Find and Replace, Trim, and Concatenate, were used to format the data. The original data and the cleaned data have been separated into two different worksheets in the Excel file.
 
