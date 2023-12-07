@@ -34,7 +34,7 @@ This repository is a showcase of my skills, projects, and progress in the field 
 
 **Description:** This project involved taking stock data and turning it into an interactive dashboard that includes: dynamic header information, a search bar, stock price over different year ranges, financial metrics, employee metrics, and CEO information. All the data is dynamic to the stock chosen. (Note: Stock data from November 2023, not live).
 
-**Skills:** Chart Design, Dynamic bookmarks, Search bars, Measures, Power Query, Dynamic text and images, Map charts, Linking map data
+**Skills:** Chart Design, Dynamic bookmarks, Search bars, Measures, DAX, Power Query, Dynamic text and images, Map charts, Linking map data
 
 **Technology:** Power BI Desktop, Power Query
 
