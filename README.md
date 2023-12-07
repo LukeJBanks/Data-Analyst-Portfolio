@@ -12,7 +12,7 @@ This repository is a showcase of my skills, projects, and progress in the field 
 
 ## COVID-19 Data Exploration
 
-**Description:** The dataset used contains COVID-19 cases, deaths, and vaccine records by country in the early stages of the COVID-19 outbreak (2020-2021).  This project involved importing the data, cleaning and preprocessing the data, and EDA (exploratory data analysis).
+**Description:** The dataset used, contains COVID-19 cases, deaths, and vaccine records by country in the early stages of the COVID-19 outbreak (2020-2021).  This project involved importing the data, cleaning and preprocessing the data, and EDA (exploratory data analysis).
 
 **Skills:** Joins, CTE’s, Temp Tables, Windows Functions, Aggregate Function, Creating Views, Converting Data Types
 
@@ -41,6 +41,21 @@ This repository is a showcase of my skills, projects, and progress in the field 
 **Dashboard Visual:** [Stock Dashboard Project.pdf](https://github.com/LukeJBanks/Data-Analyst-Portfolio/blob/main/Stock%20Dashboard%20Project.pdf)https://github.com/LukeJBanks/Data-Analyst-Portfolio/blob/main/Stock%20Dashboard%20Project.pdf
 
 **Power BI File:** [Stock Dashboard Project.pbix](https://github.com/LukeJBanks/Data-Analyst-Portfolio/blob/main/Stock%20Dashboard%20Project.pbix)https://github.com/LukeJBanks/Data-Analyst-Portfolio/blob/main/Stock%20Dashboard%20Project.pbix
+
+##Stock Dashboard Project
+
+**Description:** This project takes the results from an anonymous survey for those who work in the field of data science and data analytics. This project involved cleaning the data set in Excel, then importing the data into Power BI and making a dashboard. The data cleaning process began by bringing relevant data together into categories that would be useable in a visualization. The =IF function was also used to separate Salary and Age into categories. Tools like Find and Replace, Trim, and Concatenate, were used to format the data. The original data and the cleaned data have been separated into two different worksheets in the Excel file.
+
+**Skills:** IF function, Find and Replace, Average, Text to Columns, Trim, Concatenate
+
+**Technology:** Power BI Desktop, Excel
+
+**Dashboard Visual:** [Data Analyst Survey Project Dashboard.pdf](https://github.com/LukeJBanks/Data-Analyst-Portfolio/blob/main/Data%20Analyst%20Survey%20Project%20Dashboard.pdf)
+
+**Power BI File:** [Data Analyst Survey Project Dashboard.pbix](https://github.com/LukeJBanks/Data-Analyst-Portfolio/blob/main/Data%20Analyst%20Survey%20Project%20Dashbaord.pbix)https://github.com/LukeJBanks/Data-Analyst-Portfolio/blob/main/Data%20Analyst%20Survey%20Project%20Dashbaord.pbix
+
+**Excel File:** [Data Analyst Survey Project.xlsx](https://github.com/LukeJBanks/Data-Analyst-Portfolio/blob/main/Data%20Analyst%20Survey%20Project.xlsx)https://github.com/LukeJBanks/Data-Analyst-Portfolio/blob/main/Data%20Analyst%20Survey%20Project.xlsx
+
 
 
 
