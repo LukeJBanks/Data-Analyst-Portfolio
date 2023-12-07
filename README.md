@@ -56,6 +56,19 @@ This repository is a showcase of my skills, projects, and progress in the field 
 
 **Excel File:** [Data Analyst Survey Project.xlsx](https://github.com/LukeJBanks/Data-Analyst-Portfolio/blob/main/Data%20Analyst%20Survey%20Project.xlsx)https://github.com/LukeJBanks/Data-Analyst-Portfolio/blob/main/Data%20Analyst%20Survey%20Project.xlsx
 
+## Coffee Shop Sales Dashboard Project
+
+**Description:** This project shows the sales data for a coffee shop in a dynamic dashboard. XLOOKUP functions, XLOOKUP functions within IF functions, and INDEX functions were all used to combine three tables of data into one. The data was then turned into pivot tables that were then used to create the graphs and charts used in the dashboard. Various dashboard filters were added including a custom timeline and three slicers.
+
+**Skills:** Charts and Graphs, Slicers, Timelines, IF functions, XLOOKUP, INDEX functions, Pivot Tables, Custom styles
+
+**Technology:** Excel
+
+**Dashboard Visual:** [Coffee Shop Sales Project.png](https://github.com/LukeJBanks/Data-Analyst-Portfolio/blob/main/Coffee%20Shop%20Sales%20Project.png)https://github.com/LukeJBanks/Data-Analyst-Portfolio/blob/main/Coffee%20Shop%20Sales%20Project.png
+
+**Excel File:** [Coffee Shop Sales Project.xlsx](https://github.com/LukeJBanks/Data-Analyst-Portfolio/blob/main/Coffee%20Shop%20Sales%20Project.xlsx)https://github.com/LukeJBanks/Data-Analyst-Portfolio/blob/main/Coffee%20Shop%20Sales%20Project.xlsx
+
+
 
 
 
